@@ -1,4 +1,5 @@
 package lab2;
+import java.applet.*;
 import java.util.*;
 import java.sql.*;
 public class SQLConnection {
